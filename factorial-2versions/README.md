@@ -16,9 +16,9 @@ The project provides two distinct functions to calculate $n!$:
 1. Clone this repository to your local machine.
 2. Compile the code using a standard C++ compiler:
    ```bash
-   g++ main.cpp -o factorial-2versions.cpp
+   g++ main.cpp -o factorial-2versions
    ```
 3. Run the executable:
    ```bash
-   ./factorial-2versions.cpp
+   ./factorial-2versions
    ```
