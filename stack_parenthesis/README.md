@@ -42,9 +42,9 @@ bool correctParenthesis(std::string s) {
 1. Clone this repository to your local machine.
 2. Compile the code using a standard C++ compiler:
    ```bash
-   g++ main.cpp -o correct_parenthesis
+   g++ main.cpp -o stack_parenthesis
    ```
 3. Run the executable:
    ```bash
-   ./correct_parenthesis
+   ./stack_parenthesis
    ```
